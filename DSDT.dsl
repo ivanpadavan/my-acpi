@@ -1,227 +1,3 @@
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6d1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6e0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6ef (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6fe (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI4], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x70d (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI5], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x71c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI6], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x72b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI7], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x73a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI8], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x749 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI9], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x758 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIA], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x767 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIB], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x776 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIC], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x785 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGID], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x794 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIE], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7a3 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIF], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7b2 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7c1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7d0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7df (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7ee (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7fd (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x80c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x81b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x82a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS4], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x839 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS5], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x848 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS6], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x857 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS7], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x866 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6d1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6e0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6ef (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6fe (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI4], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x70d (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI5], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x71c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI6], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x72b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI7], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x73a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI8], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x749 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI9], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x758 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIA], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x767 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIB], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x776 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIC], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x785 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGID], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x794 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIE], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7a3 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIF], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7b2 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7c1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7d0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7df (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7ee (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7fd (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x80c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x81b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x82a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS4], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x839 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS5], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x848 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS6], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x857 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS7], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x866 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6d1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6e0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6ef (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x6fe (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI4], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x70d (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI5], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x71c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI6], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x72b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI7], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x73a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI8], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x749 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI9], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x758 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIA], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x767 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIB], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x776 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIC], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x785 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGID], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x794 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIE], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7a3 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIF], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7b2 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7c1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7d0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7df (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7ee (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS0], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x7fd (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS1], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x80c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS2], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x81b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS3], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x82a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS4], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x839 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS5], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x848 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS6], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x857 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS7], AE_NOT_FOUND (20180427/dswload-498)
-// Invalid external declaration at AML offset 0x866 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6d1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6e0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6ef (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x6fe (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI4], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x70d (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI5], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x71c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI6], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x72b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI7], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x73a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI8], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x749 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGI9], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x758 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIA], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x767 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIB], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x776 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIC], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x785 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGID], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x794 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIE], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7a3 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.MGIF], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7b2 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7c1 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7d0 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7df (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.CCI3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7ee (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS0], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x7fd (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS1], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x80c (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS2], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x81b (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS3], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x82a (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS4], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x839 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS5], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x848 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS6], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x857 (see bz1397).
-Firmware Error (ACPI): Failure looking up [^^^UBTC.STS7], AE_NOT_FOUND (20180427/dswload2-468)
-// Invalid external declaration at AML offset 0x866 (see bz1397).
 /*
  * Intel ACPI Component Architecture
  * AML/ASL+ Disassembler version 20180427 (64-bit version)(RM)
@@ -229,18 +5,18 @@ Firmware Error (ACPI): Failure looking up [^^^UBTC.STS7], AE_NOT_FOUND (20180427
  * 
  * Disassembling to non-symbolic legacy ASL operators
  *
- * Disassembly of DSDT.aml, Tue Jul 10 03:38:12 2018
+ * Disassembly of DSDT.aml, Tue Jul 10 04:01:33 2018
  *
  * Original Table Header:
  *     Signature        "DSDT"
- *     Length           0x0001C3C0 (115648)
+ *     Length           0x0001C4E7 (115943)
  *     Revision         0x02
- *     Checksum         0x33
+ *     Checksum         0x1B
  *     OEM ID           "LENOVO"
  *     OEM Table ID     "CB-01   "
  *     OEM Revision     0x00000001 (1)
- *     Compiler ID      "ACPI"
- *     Compiler Version 0x00040000 (262144)
+ *     Compiler ID      "INTL"
+ *     Compiler Version 0x20180427 (538444839)
  */
 DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
 {
@@ -292,8 +68,8 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
     External (_SB_.PCI0.HDAS.PS3X, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.PCI0.LPCB.EC0_.ADPT, FieldUnitObj)    // (from opcode)
     External (_SB_.PCI0.LPCB.EC0_.NBMO, FieldUnitObj)    // (from opcode)
-    External (_SB_.PCI0.LPCB.EC0_.SEN1, UnknownObj)
-    External (_SB_.PCI0.LPCB.EC0_.SEN2, UnknownObj)
+    External (_SB_.PCI0.LPCB.EC0_.SEN1, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.LPCB.EC0_.SEN2, UnknownObj)    // (from opcode)
     External (_SB_.PCI0.LPCB.ECOK, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.PCI0.LPCB.H_EC.CHRG, DeviceObj)    // (from opcode)
     External (_SB_.PCI0.LPCB.H_EC.XDAT, MethodObj)    // 0 Arguments (from opcode)
@@ -303,18 +79,18 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
     External (_SB_.PCI0.PEG0.PEGP, DeviceObj)    // (from opcode)
     External (_SB_.PCI0.PEG1, DeviceObj)    // (from opcode)
     External (_SB_.PCI0.PEG2, DeviceObj)    // (from opcode)
-    External (_SB_.PCI0.RP05.PWRG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP05.RSTG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP05.SCLK, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP09.PWRG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP09.RSTG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP09.SCLK, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP13.PWRG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP13.RSTG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP13.SCLK, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP17.PWRG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP17.RSTG, UnknownObj)    // Warning: Unknown object
-    External (_SB_.PCI0.RP17.SCLK, UnknownObj)    // Warning: Unknown object
+    External (_SB_.PCI0.RP05.PWRG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP05.RSTG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP05.SCLK, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP09.PWRG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP09.RSTG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP09.SCLK, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP13.PWRG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP13.RSTG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP13.SCLK, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP17.PWRG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP17.RSTG, UnknownObj)    // (from opcode)
+    External (_SB_.PCI0.RP17.SCLK, UnknownObj)    // (from opcode)
     External (_SB_.PCI0.SAT0.SDSM, MethodObj)    // 4 Arguments (from opcode)
     External (_SB_.PCI0.XHC_.DUAM, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.PCI0.XHC_.PS0X, MethodObj)    // 0 Arguments (from opcode)
@@ -324,32 +100,32 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
     External (_SB_.PCI0.XHC_.RHUB.PS2X, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.PCI0.XHC_.RHUB.PS3X, MethodObj)    // 0 Arguments (from opcode)
     External (_SB_.TPM_.PTS_, MethodObj)    // 1 Arguments (from opcode)
-    External (_SB_.UBTC, UnknownObj)
-    External (_SB_.UBTC.CCI0, FieldUnitObj)
-    External (_SB_.UBTC.CCI1, FieldUnitObj)
-    External (_SB_.UBTC.CCI2, FieldUnitObj)
-    External (_SB_.UBTC.CCI3, FieldUnitObj)
-    External (_SB_.UBTC.MGI0, FieldUnitObj)
-    External (_SB_.UBTC.MGI1, FieldUnitObj)
-    External (_SB_.UBTC.MGI2, FieldUnitObj)
-    External (_SB_.UBTC.MGI3, FieldUnitObj)
-    External (_SB_.UBTC.MGI4, FieldUnitObj)
-    External (_SB_.UBTC.MGI5, FieldUnitObj)
-    External (_SB_.UBTC.MGI6, FieldUnitObj)
-    External (_SB_.UBTC.MGI7, FieldUnitObj)
-    External (_SB_.UBTC.MGI8, FieldUnitObj)
-    External (_SB_.UBTC.MGI9, FieldUnitObj)
-    External (_SB_.UBTC.MGIA, FieldUnitObj)
-    External (_SB_.UBTC.MGIB, FieldUnitObj)
-    External (_SB_.UBTC.MGIC, FieldUnitObj)
-    External (_SB_.UBTC.MGID, FieldUnitObj)
-    External (_SB_.UBTC.MGIE, FieldUnitObj)
-    External (_SB_.UBTC.MGIF, FieldUnitObj)
+    External (_SB_.UBTC, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.CCI0, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.CCI1, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.CCI2, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.CCI3, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI0, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI1, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI2, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI3, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI4, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI5, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI6, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI7, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI8, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGI9, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGIA, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGIB, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGIC, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGID, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGIE, UnknownObj)    // (from opcode)
+    External (_SB_.UBTC.MGIF, UnknownObj)    // (from opcode)
     External (_TZ_.ETMD, IntObj)    // (from opcode)
     External (_TZ_.TZ00, DeviceObj)    // (from opcode)
     External (_TZ_.TZ01, DeviceObj)    // (from opcode)
     External (ALSE, UnknownObj)    // (from opcode)
-    External (BNUM, UnknownObj)    // (from opcode)    // Conflicts with a later declaration
+    External (BNUM, UnknownObj)    // (from opcode)
     External (BRTL, UnknownObj)    // (from opcode)
     External (D1F0, UnknownObj)    // (from opcode)
     External (D1F1, UnknownObj)    // (from opcode)
@@ -395,6 +171,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
     External (SAT0.NVM1.VLPM, UnknownObj)    // (from opcode)
     External (SAT0.NVM2.VLPM, UnknownObj)    // (from opcode)
     External (SAT0.NVM3.VLPM, UnknownObj)    // (from opcode)
+    External (SDSM, IntObj)    // (from opcode)
     External (SEN1, DeviceObj)    // (from opcode)
     External (SEN2, DeviceObj)    // (from opcode)
     External (SGGP, UnknownObj)    // (from opcode)
@@ -437,7 +214,6 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
         DTS2,   8, 
         DTSF,   8, 
         Offset (0x1E), 
-        BNUM,   8, 
         Offset (0x20), 
         Offset (0x21), 
         Offset (0x22), 
@@ -1501,7 +1277,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
         MDEN,   8
     }
 
-    OperationRegion (OGNS, SystemMemory, 0x3AF48FD8, 0x0000000C)
+    OperationRegion (OGNS, SystemMemory, 0x3AF48FD8, 0x0C)
     Field (OGNS, AnyAcc, Lock, Preserve)
     {
         OG00,   8, 
@@ -5652,7 +5428,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
 
             Method (_PRW, 0, NotSerialized)  // _PRW: Power Resources for Wake
             {
-                Return (GPRW (0x6D, 0x03))
+                Return (GPRW (0x6D, 0x04))
             }
 
             Method (_DSW, 3, NotSerialized)  // _DSW: Device Sleep Wake
@@ -14552,16 +14328,6 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
 
             Method (_STA, 0, NotSerialized)  // _STA: Status
             {
-                If (LEqual (SBRG, Zero))
-                {
-                    Return (Zero)
-                }
-
-                If (LEqual (GPEN, Zero))
-                {
-                    Return (Zero)
-                }
-
                 Return (0x0F)
             }
         }
@@ -18245,7 +18011,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
             If (LEqual (RXMS (0x4F), One)){}
             Else
             {
-                Notify (\_SB.PWRB, 0x02)
+                Notify (\_SB.PCI0.LPCB.LID0, 0x80)
             }
         }
 
@@ -18579,6 +18345,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
         Method (_INI, 0, Serialized)  // _INI: Initialize
         {
             Store (0x07D0, OSYS)
+            Store (0x07DF, OSYS)
             If (CondRefOf (\_OSI))
             {
                 If (_OSI ("Linux"))
@@ -18626,7 +18393,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
                     Store (0x07DD, OSYS)
                 }
 
-                If (_OSI ("Windows 2015"))
+                If (LOr (_OSI ("Darwin"), _OSI ("Windows 2015")))
                 {
                     Store (0x07DF, OSYS)
                 }
@@ -25152,7 +24919,7 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
 
     Name (BUFN, Zero)
     Name (MBUF, Buffer (0x1000){})
-    OperationRegion (MDBG, SystemMemory, 0x3AF35018, 0x00001004)
+    OperationRegion (MDBG, SystemMemory, 0x3AF35018, 0x1004)
     Field (MDBG, AnyAcc, Lock, Preserve)
     {
         MDG0,   32768
@@ -26453,7 +26220,6 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
             {
                 Offset (0x03), 
                     ,   7, 
-                NBMO,   1, 
                 Offset (0x08), 
                 GC6F,   1, 
                 Offset (0x0E), 
@@ -26482,7 +26248,6 @@ DefinitionBlock ("", "DSDT", 2, "LENOVO", "CB-01   ", 0x00000001)
                 OSTY,   4, 
                     ,   2, 
                 ECRD,   1, 
-                ADPT,   1, 
                 PWAK,   1, 
                 MWAK,   1, 
                 LWAK,   1, 
